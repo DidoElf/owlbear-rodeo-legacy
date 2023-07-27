@@ -49,7 +49,7 @@ function Home() {
         mb={2}
       >
         <Text variant="display" as="h1" sx={{ textAlign: "center" }}>
-          Owlbear Rodeo
+          TA's Owlbear Rodeo
         </Text>
         <Image src={owlington} m={2} />
         <Button
@@ -71,7 +71,7 @@ function Home() {
           Join Game
         </Button>
         <Text variant="caption" as="p" sx={{ textAlign: "center" }}>
-          Legacy v{process.env.REACT_APP_VERSION}
+          Legacy owlbear-rodeo host via TA
         </Text>
         <Button
           as="a"
